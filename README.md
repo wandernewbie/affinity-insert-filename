@@ -33,7 +33,7 @@ Affinity（by Canva）で、選択したテキストオブジェクトに、現�
 
 ## ソースコード
 
-編集用のJavaScriptは [`insert_filename.js`](./insert_filename.js) です。
+編集用のJavaScriptは [`affinity_insert_filename.js`](./affinity_insert_filename.js) です。
 
 `.js` は編集・学習向け、`.afscript` はAffinityへのインストール向けの配布ファイルです。
 
