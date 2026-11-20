@@ -3,6 +3,8 @@
 
 [English](./README.en.md)
 
+📦 [最新版をダウンロード](https://github.com/wandernewbie/affinity-insert-filename/releases/latest)
+
 Affinity（by Canva）で、選択したテキストオブジェクトに、現在開いているドキュメントのファイル名を挿入するスクリプトです。
 
 ## できること

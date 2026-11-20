@@ -2,6 +2,8 @@
 
 [日本語](./README.md)
 
+📦 [Download latest release](https://github.com/wandernewbie/affinity-insert-filename/releases/latest)
+
 This script for Affinity by Canva replaces the contents of a selected text object with the name of the open document.
 
 ## Compatibility
