@@ -1,0 +1,2 @@
+# affinity-insert-filename
+Affinityで選択したテキストボックスに、現在開いているファイル名を入力します
