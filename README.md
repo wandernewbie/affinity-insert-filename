@@ -1,6 +1,8 @@
 
 # Insert Filename for Affinity
 
+[English](./README.en.md)
+
 Affinity（by Canva）で、選択したテキストオブジェクトに、現在開いているドキュメントのファイル名を挿入するスクリプトです。
 
 ## できること
